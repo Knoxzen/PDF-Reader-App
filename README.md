@@ -17,16 +17,6 @@
     * Utilizing the `barteksc/AndroidPdfViewer` library, the app renders the selected PDF document for seamless viewing.
 * 🔍 **Zoom and Scroll**
     * Users can zoom in and out of the document, as well as scroll through its pages effortlessly.
-* 📑 **Table of Contents**
-    * The app extracts the table of contents from the PDF file, providing users with quick navigation to specific sections.
-* 🌗 **Dark Mode**
-    * Supports a dark mode option for comfortable reading in low-light environments.
-* 📄 **Text Search**
-    * Users can search for specific text within the PDF document for quick access to relevant information.
-* 📝 **Annotation Tools**
-    * The app offers annotation features like highlighting, underlining, and adding notes to important sections of the document.
-* 📂 **File Management**
-    * Users can manage their PDF documents, including renaming, deleting, and organizing them into folders.
 * 🚀 **Smooth Performance**
     * The app is optimized for performance, ensuring fast and efficient loading and rendering of PDF files.
 
