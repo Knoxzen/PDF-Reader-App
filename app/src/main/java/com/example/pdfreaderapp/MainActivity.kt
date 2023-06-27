@@ -11,7 +11,6 @@ import com.github.barteksc.pdfviewer.util.FitPolicy
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        private const val READ_REQUEST_CODE = 42
     }
 
     private lateinit var pdfView: PDFView
